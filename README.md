@@ -6,7 +6,7 @@ Hi there! I'm **Ganeshkumar**,I’m passionate about building scalable, automate
 
 ## 🌟 What I’m Working On
 
-- **Currently Learning:** Fullstack DevOps at [Sloopstash](sloopstash)
+- **Currently Learning:** Fullstack DevOps at [@sloopstash](https://github.com/sloopstash)
 - **Exploring:** DevOps and new technologies
 - **Projects:**  Containerizing the CRM stack (Kubernetes cluster) with automate, and orchestrating multi-stacks, including multi-environments with Windows 11 desktop VM provisioning
 
