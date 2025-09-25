@@ -25,8 +25,8 @@ Hi there! I'm **Ganeshkumar**,I’m passionate about building scalable, automate
 
 ## 🌐 Connect with Me
 
-[Linkedin](www.linkedin.com/in/ganeshkumarmarimuthu)
+[Linkedin](https://www.linkedin.com/in/ganeshkumarmarimuthu)
 
 ## 📫 How to Reach Me
 
-Feel free to contact me via email at [ganeshravi2017@gmail.com](ganeshravi2017@gmail.com)
+Feel free to contact me via email at **ganeshravi2017@gmail.com**
